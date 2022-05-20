@@ -1,6 +1,6 @@
 # Hello :ocean::ocean::ocean:
 
-I am **Qyir**. :smiley:
+I am **Qiyu**. :smiley:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:voyoaugi@gmail.com)](mailto:voyoaugi@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/QoQyir)](https://twitter.com/QoQyir)
