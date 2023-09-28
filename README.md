@@ -10,7 +10,7 @@ I am **Qiyu**. :smiley:
 ## About
 
 <!-- - :speech_balloon: My Blog: [https://blog.qoqyir.com](https://blog.qoqyir.com) -->
-- :man_technologist: Work in ReroCrode Studio as a designer and engineer
+- :man_technologist: Work in Isomer Studio as a designer and engineer
 - :house: Living in Hangzhou, China
 
 ---
